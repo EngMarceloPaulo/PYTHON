@@ -1,2 +1,2 @@
 # redesined-engeneering
-Experiências com softwares e outros
+Curso básico de Python
