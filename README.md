@@ -1,2 +1,2 @@
-# redesined-engeneering
+# Curso Básico
 Curso básico de Python
